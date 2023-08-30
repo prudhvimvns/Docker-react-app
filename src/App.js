@@ -9,8 +9,8 @@ function App() {
         <p>
           Edit <code>src/App.js</code> and save to reload...
         </p>
-        <h1>hiiiii</h1>
-        <p>heyyy jujubeee</p>
+        <h1>Hi This is sample Application 👋</h1>
+        <p>Docker Test🐬</p>
         <a
           className="App-link"
           href="https://reactjs.org"
